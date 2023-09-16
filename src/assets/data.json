@@ -1,91 +1,94 @@
 [
-     {
+    {
         "id": 1,
-        "question" : "Question 1 avec un peu de texte comme ca on voit la taille qu'il faut pour une question assez longue ?",
+        "question": "Combien font 2 + 2 ?",
         "possibleAnswer": [
             {
                 "id": 1,
-                "answer": "Reponse 1 de la question 1"
+                "answer": "2"
             },
             {
                 "id": 2,
-                "answer": "Reponse 2 de la question 1"
+                "answer": "12"
             },
             {
                 "id": 3,
-                "answer": "Reponse 3 de la question 1"
+                "answer": "4",
+                "valid": true
             },
             {
                 "id": 4,
-                "answer": "La reponse D de la question 1"
+                "answer": "8"
             }
         ]
     },
-     {
+    {
         "id": 2,
-        "question" : "Question 2 avec un peu de texte comme ca on voit la taille qu'il faut pour une question assez longue ?",
+        "question": "Combien font 6 + 6 ?",
         "possibleAnswer": [
             {
                 "id": 1,
-                "answer": "Reponse 1 de la question 2"
+                "answer": "2"
             },
             {
                 "id": 2,
-                "answer": "Reponse 2 de la question 2"
+                "answer": "12",
+                "valid": true
             },
             {
                 "id": 3,
-                "answer": "Reponse 3 de la question 2"
+                "answer": "4"
             },
             {
                 "id": 4,
-                "answer": "La reponse D de la question 2"
+                "answer": "8"
             }
         ]
     },
-     {
+    {
         "id": 3,
-        "question" : "Question 3 avec un peu de texte comme ca on voit la taille qu'il faut pour une question assez longue ?",
+        "question": "Combien font 1 + 1 ?",
         "possibleAnswer": [
             {
                 "id": 1,
-                "answer": "Reponse 1 de la question 3"
+                "answer": "2",
+                "valid": true
             },
             {
                 "id": 2,
-                "answer": "Reponse 2 de la question 3"
+                "answer": "12"
             },
             {
                 "id": 3,
-                "answer": "Reponse 3 de la question 3"
+                "answer": "4"
             },
             {
                 "id": 4,
-                "answer": "La reponse D de la question 3"
+                "answer": "8"
             }
         ]
     },
-     {
+    {
         "id": 4,
-        "question" : "Question 4 avec un peu de texte comme ca on voit la taille qu'il faut pour une question assez longue ?",
+        "question": "Combien font 4 + 4 ?",
         "possibleAnswer": [
             {
                 "id": 1,
-                "answer": "Reponse 1 de la question 4"
+                "answer": "2"
             },
             {
                 "id": 2,
-                "answer": "Reponse 2 de la question 4"
+                "answer": "12"
             },
             {
                 "id": 3,
-                "answer": "Reponse 3 de la question 4"
+                "answer": "4"
             },
             {
                 "id": 4,
-                "answer": "La reponse D de la question 4"
+                "answer": "8",
+                "valid": true
             }
         ]
     }
-
 ]

@@ -1,4 +1,4 @@
-export interface QuestionProps  {
+export interface QuestionProps {
     id: number
     question: string
     possibleAnswer: AnswerProps[]
@@ -7,4 +7,5 @@ export interface QuestionProps  {
 export interface AnswerProps {
     id: number
     answer: string
+    valid?: boolean
 }
